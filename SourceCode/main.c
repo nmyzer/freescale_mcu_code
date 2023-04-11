@@ -18,6 +18,8 @@ int sub(int a, int b)
     return a - b;
 }
 
+/* test */
+
 int main(void)
 {
     printf("Hello Github!\r\n");
